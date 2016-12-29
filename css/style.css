@@ -1,7 +1,7 @@
 *{
-	font-family: 'Titillium Web', sans-serif;
 	color: #FFF;
 	font-size: 16px;
+	font-family: 'Damion', cursive;
 }
 
 html{
@@ -56,6 +56,7 @@ body{
 .title{
 	margin-top: 0;
 	padding-top: 1em;
+	font-family: 'Aclonica', sans-serif;
 }
 /*STYLE DODOS*/
 .dodo{
@@ -74,6 +75,10 @@ body{
 #mess{
 	font-size: 1.5em;
 	text-align: left;
+}
+.red{
+	color: red;
+	font-size: 1.5em;
 }
 
 /*STYLE Tortue*/
@@ -95,7 +100,7 @@ body{
 
 /*STYLE FIGHT*/
 #fight{
-	min-height: 50em;
+	min-height: 35em;
 	width: 100%;
 	margin: 0;
 	background-color: #666;
@@ -105,6 +110,9 @@ body{
 .imgVs{
 	padding-top: 5em;
 	width: 100%;
+}
+.bigger{
+	font-size: 1.5em;
 }
 /*STYLE contact*/
 #contact{
